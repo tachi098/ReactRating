@@ -1,0 +1,21 @@
+.col-4 {
+    width: 6.333333% !important;
+}
+
+.average {
+    margin-right: 5em;
+    margin-left: 2em;
+}
+
+input[type="radio"] {
+    display: none;
+}
+
+.star {
+    cursor: pointer;
+    transition: color 200ms;
+}
+
+.removeBtn{
+    cursor: pointer;
+}
